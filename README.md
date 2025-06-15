@@ -1,2 +1,2 @@
-# Yasar-s-Demo
-This is the website made in Lovable AI.
+# Yasar's-Demo
+This webiste is made with Lovable AI.
